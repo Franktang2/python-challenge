@@ -1,8 +1,8 @@
-## Python Challenge
+# Python Challenge
 
 Python scripts used to help analyze budget/financial data (PyBank) and to help a small, rural town modernize its vote-counting process (PyPoll).
 
-# Background
+## Background
 
 For this project, I created two Python scripts:
 
@@ -40,7 +40,7 @@ When you run the script, the script analyzes the votes and calculates the follow
 -The winner of the election based on popular vote.
 
 
-# Technologies used
+## Technologies used
 
 The following technologies were used to build the scripts:
 
