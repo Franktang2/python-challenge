@@ -49,7 +49,3 @@ The following technologies were used to build the scripts:
 -Pandas
 
 -Jupyter Notebook
-
-
-
-
